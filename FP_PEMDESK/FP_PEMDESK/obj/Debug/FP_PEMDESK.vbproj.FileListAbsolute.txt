@@ -1,0 +1,14 @@
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\bin\Debug\FP_PEMDESK.exe.config
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\bin\Debug\FP_PEMDESK.exe
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\bin\Debug\FP_PEMDESK.pdb
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\bin\Debug\FP_PEMDESK.xml
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\bin\Debug\Guna.UI2.dll
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\obj\Debug\FP_PEMDESK.vbproj.AssemblyReference.cache
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\obj\Debug\FP_PEMDESK.Form1.resources
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\obj\Debug\FP_PEMDESK.Resources.resources
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\obj\Debug\FP_PEMDESK.vbproj.GenerateResource.cache
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\obj\Debug\FP_PEMDESK.vbproj.CoreCompileInputs.cache
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\obj\Debug\FP_PEMDESK.vbproj.CopyComplete
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\obj\Debug\FP_PEMDESK.exe
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\obj\Debug\FP_PEMDESK.xml
+C:\Users\JoRizki\source\repos\FP_PEMDESK\FP_PEMDESK\obj\Debug\FP_PEMDESK.pdb
